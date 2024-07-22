@@ -66,9 +66,9 @@
         &:nth-child(2),
         &:nth-child(3) {
           width: auto;
-        }
         padding: 20px;
         border: 1px solid #999;
+        }
       }
     }
 
@@ -83,11 +83,11 @@
         border: none;
         cursor: pointer;
         background-color: #fece51;
-        
+
         @include sm{
           padding: 10px;
         }
-        
+
         img {
           width: 24px;
           height: 24px;
